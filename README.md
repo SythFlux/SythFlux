@@ -54,6 +54,10 @@
 [![LinkedIn](https://img.shields.io/badge/-donnyvo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnyvo/)
 ![Views](https://komarev.com/ghpvc/?username=SythFlux&style=flat-square&color=555555)
 
+<p align="center">
+  <a href="https://dtdvo.nl">Personal Portfolio Website</a>
+</p>
+
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=cbd5e1&center=true&vCenter=true&width=520&lines=embedded+systems+%2F+real-time+%2F+data+pipelines;hardware+%E2%86%94+software;building+at+the+intersection"
   alt="Typing SVG"
